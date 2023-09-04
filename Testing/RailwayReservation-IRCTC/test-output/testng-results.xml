@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-04T10:08:22 IST" name="Default suite" finished-at="2023-09-04T10:08:22 IST" duration-ms="148">
+    <groups>
+    </groups>
+    <test started-at="2023-09-04T10:08:22 IST" name="Default test" finished-at="2023-09-04T10:08:22 IST" duration-ms="148">
+      <class name="com.example.NewTest">
+        <test-method signature="signuptest()[pri:1, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="signuptest" finished-at="2023-09-04T10:08:22 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuptest -->
+        <test-method signature="signintest()[pri:2, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="signintest" finished-at="2023-09-04T10:08:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signintest -->
+        <test-method signature="searchfortickettest()[pri:3, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="searchfortickettest" finished-at="2023-09-04T10:08:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchfortickettest -->
+        <test-method signature="bookfortickettest()[pri:4, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="bookfortickettest" finished-at="2023-09-04T10:08:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookfortickettest -->
+        <test-method signature="savethetickettest()[pri:5, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="savethetickettest" finished-at="2023-09-04T10:08:22 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savethetickettest -->
+        <test-method signature="paytheticketetest()[pri:6, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="paytheticketetest" finished-at="2023-09-04T10:08:22 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paytheticketetest -->
+        <test-method signature="logouttest()[pri:7, instance:com.example.NewTest@34a3d150]" started-at="2023-09-04T10:08:22 IST" name="logouttest" finished-at="2023-09-04T10:08:22 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logouttest -->
+      </class> <!-- com.example.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
